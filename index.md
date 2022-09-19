@@ -9,4 +9,4 @@
 ## Things I like about CS 193
 - The instructors make the class very lively and fun with the various memes and jokes
 - The content is simplified down to a level where students with no experience can understand which makes it easy to follow
-- The instructors are cool
+- The instructors are cool.
